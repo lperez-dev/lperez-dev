@@ -1,5 +1,5 @@
 <h1 align="center"> {<} Hi👋, I'm Luis Pérez {>} </h1>
-<h3 align="center">{ Full Stack Web developer from Perú }</h3>
+<h3 align="center">{ Full Stack Web Developer from Perú }</h3>
   
   <p align="center" >
   <samp>

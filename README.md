@@ -1,4 +1,4 @@
-<h1 align="center"> {`<`} 👋, I'm Luis Pérez {`>`} </h1>
+<h1 align="center"> {`<`} Hi👋, I'm Luis Pérez {`>`} </h1>
 <h3 align="center">Passionate Full Stack Web developer from Perú.</h3>
 
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>

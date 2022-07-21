@@ -6,7 +6,7 @@
   <br/>
     With a background as an <br/>
     <em>entrepreneur</em> and <em>business advisor</em>,<br/>
-    i like to understand the business model of the projects <br/>
+    I like to understand the business model of the projects <br/>
     to <em>generate value  propositions</em>.
   </samp>
   <br/>
@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About:</h3>
 
 <b>- I ❤️ program in React!</b><br/>
 <b>- 👨🏻 Customer oriented </b><br/>

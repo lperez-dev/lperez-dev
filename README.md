@@ -1,16 +1,19 @@
 <h1 align="center"> {<} Hi👋, I'm Luis Pérez {>} </h1>
 <h3 align="center">{ Full Stack Web developer from Perú }</h3>
-
-<p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
   
   <p align="center" >
   <samp>
-    With a background as an <em>entrepreneur</em> and <em>business advisor</em>, I like to understand the business model of the projects to <em>generate value  propositions</em>.
+    With a background as an <br/>
+    <em>entrepreneur</em> and <em>business advisor</em>,<br/>
+    I like to understand the business model of the projects <br/>
+    to <em>generate value  propositions</em>.
   </samp>
   <br/>
   <br/>
   <br/>
 </p>
+
+<p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
 <h3 align="left">About me:</h3>
 

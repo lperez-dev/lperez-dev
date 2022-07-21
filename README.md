@@ -11,8 +11,8 @@ Desde pequeño me interesó la tecnología. Ya en el colegio estudiaba en mis ho
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luisperez-fullstack/" target="blank">
-  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="24" />
-  linkedin</a>
+  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="32" />
+</a>
 <a href="https://twitter.com/prluisca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prluisca" height="30" width="40" /></a>
 </p>
 

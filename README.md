@@ -33,7 +33,7 @@
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' height="240" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436859/github/poke_create_iamrt8.png' height="240" />
   Check the video:
-  ![](https://youtu.be/mGFhdQl8RG4))
+  ![(https://youtu.be/mGFhdQl8RG4)]
   
 <h3 align="left">Follow me:</h3>
 <p align="left">

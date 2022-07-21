@@ -1,6 +1,10 @@
 <h1 align="center"> {<} Hi👋, I'm Luis Pérez {>} </h1>
 <h3 align="center">{ Full Stack Web Developer from Perú }</h3>
-  
+
+<p align="center">
+  <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
+
   <p align="center" >
   <samp>
   <br/>

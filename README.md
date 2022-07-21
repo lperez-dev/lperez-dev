@@ -36,14 +36,12 @@
   
 <h4>Mikasa Nueva Inmobiliaria (vende o alquila tu propiedad en tiempo record!</h4>
 <h5>Youtube: https://youtu.be/br3nZH1cGiI /</h5>
-    <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_portada_nhpxne.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_home_em8w4q.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_iniciarsesion_er2be5.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_details_guqax9.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_favs_tpbkr0.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_map_dr4mvj.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439469/github/mikasa_planes_bltic2.png height="220" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439469/github/mikasa_mercadopago_jk22sd.png height="220" />
+    <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_portada_nhpxne.png' height="220" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_home_em8w4q.png' height="220" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_details_guqax9.png' height="220" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_favs_tpbkr0.png' height="220" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439907/github/mikasa_map_hyy9ti.png' height="220" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439469/github/mikasa_planes_bltic2.png' height="220" />
   
 <h3 align="left">Follow me:</h3>
 <p align="left">

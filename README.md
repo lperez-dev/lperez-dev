@@ -17,7 +17,7 @@
   <br/>
 </p>
 
-<h3 align="left">About:</h3>
+<h3 align="left">About me:</h3>
 
 <b>- I ❤️ program in React!</b><br/>
 <b>- 👨🏻 Customer oriented </b><br/>
@@ -26,7 +26,7 @@
 <b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I feel comfortable working in a team</b><br/>
 <b>-🌱 Learning about Typescript, Next.js, blockchain and crypto.
   
-<h3 align="left">Projects:</h3>  
+<h3 align="left">📌 Projects:</h3>  
 <h4>Pokemon Valley</h4>
   <h5>Demo: https://pi-pokemons-two.vercel.app/</h5>
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' height="220" />
@@ -58,6 +58,7 @@
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcperri&show_icons=true&locale=en" alt="lcperri" /></p>
   
-  - 📫 How to reach me: prluisca@gmail.com
+ <h3 align="left">How to reach me:</h3>
+  - 📫 prluisca@gmail.com
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 

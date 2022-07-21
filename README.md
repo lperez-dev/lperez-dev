@@ -11,7 +11,9 @@
 <b>- ⭐️ I put a lot of dedication to the projects that I have done</b><br/>
 <b>- Customer oriented </b><br/>
 <b>- Focused on results </b><br/>>
-<b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I feel comfortable working in a team</b>
+<b>- 💻 I develop own projects as a hobby and possible ventures.
+<b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I feel comfortable working in a team</b>
+<b>-🌱 Learning about Typescript, Next.js, Blockchain and Crypto.
 
 <h3 align="left">Follow me:</h3>
 <p align="left">

@@ -1,16 +1,17 @@
 <h1 align="center"> {`<`} Hi👋, I'm Luis Pérez {`>`} </h1>
-<h3 align="center">{ Passionate Full Stack Web developer from Perú }</h3>
+<h3 align="center">{ Full Stack Web developer from Perú }</h3>
 
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
 <h3 align="left">About me:</h3>
 
-<p>With a background as an entrepreneur and business advisor, I like to understand the business model of the project to generate value propositions.</p>
+<p>With a background as an entrepreneur and business advisor, I like to understand the business model of the projects to generate value propositions.</p>
 
 <b>- I ❤️ Love program in React!</b><br/>
 <b>- I have done several projects</b><br/>
 <b>- Customer oriented </b><br/>
-<b>- Focused on results </b>
+<b>- Focused on results </b><br/>>
+<b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I feel comfortable working in a team</b>
 
 <h3 align="left">Follow me:</h3>
 <p align="left">

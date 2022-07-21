@@ -27,7 +27,10 @@
 <b>-🌱 Learning about Typescript, Next.js, blockchain and crypto.
   
 <h3 align="left">Projects:</h3>  
-
+<h4>Pokemon Valley</h4>
+<img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' />
+  
+  
 <h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luisperez-fullstack/" target="blank">

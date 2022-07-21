@@ -5,7 +5,7 @@
   
   <p align="center" >
   <samp>
-    With a background as an <em>entrepreneur</em> and <em>business advisor</em>, I like to understand the business model of the projects to <em>generate value propositions</em>.
+    With a background as an <em>entrepreneur</em> and <em>business advisor</em>, I like to understand the business model of the projects to <em>generate value  propositions</em>.
   </samp>
   <br/>
   <br/>

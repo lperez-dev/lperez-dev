@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Luis Pérez</h1>
 <h3 align="center">Apasionado desarrollador Fullstack de Perú.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcperri" alt="lcperri" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
 <h3 align="left">Acerca de mi:</h3>

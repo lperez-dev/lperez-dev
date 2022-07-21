@@ -23,8 +23,9 @@
 <b>- ⭐️ Focused on results </b><br/>
 <b>- 💻 I develop own projects as a hobby and possible ventures.</b><br/>
 <b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I feel comfortable working in a team</b><br/>
-<b>-🌱 Learning about Typescript, Next.js, Blockchain and Crypto.
-<p><b>With a background as an entrepreneur and business advisor, I like to understand the business model of the projects to generate value propositions.</b></p>
+<b>-🌱 Learning about Typescript, Next.js, blockchain and crypto.
+  
+<h3 align="left">Projects:</h3>  
 
 <h3 align="left">Follow me:</h3>
 <p align="left">

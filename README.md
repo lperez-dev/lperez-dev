@@ -15,10 +15,7 @@
   </samp>
   <br/>
   <br/>
-  <br/>
 </p>
-
-<p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
 <h3 align="left">About:</h3>
 
@@ -47,3 +44,5 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcperri&show_icons=true&locale=en" alt="lcperri" /></p>
   
   - 📫 How to reach me: prluisca@gmail.com
+<p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
+

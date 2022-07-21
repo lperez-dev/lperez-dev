@@ -7,7 +7,7 @@
 
 <p>With a background as an entrepreneur and business advisor, I like to understand the business model of the projects to generate value propositions.</p>
 
-<b>- I ❤️ Love program in React!</b><br/>
+<b>- I ❤️ program in React!</b><br/>
 <b>- ⭐️ I put a lot of dedication to the projects that I have done</b><br/>
 <b>- Customer oriented </b><br/>
 <b>- Focused on results </b><br/>>

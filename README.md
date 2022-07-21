@@ -28,10 +28,10 @@
   
 <h3 align="left">Projects:</h3>  
 <h4>Pokemon Valley</h4>
-<img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' width="200" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435777/github/poke_home_rfyjwq.png' width="200" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' width="200" />
-  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436859/github/poke_create_iamrt8.png' width="200" />
+<img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' height="300" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658437246/github/poke_home_lhrhqa.png' height="300" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' height="300" />
+  <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436859/github/poke_create_iamrt8.png' height="300" />
   
   
 <h3 align="left">Follow me:</h3>

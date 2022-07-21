@@ -4,6 +4,15 @@
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
 <h3 align="left">About me:</h3>
+
+<p>With a background as an entrepreneur and business advisor, I like to understand the business model of the project to generate value propositions.</p>
+
+<b>- I ❤️ Love program in React!</b>
+<b>- I have done several projects</b>
+<b>- Customer oriented </b>
+<b>- Focused on results </b>
+
+
 Desde pequeño me interesó la tecnología. Ya en el colegio estudiaba en mis horas libres html y javascript. Ahora las nuevas tecnologías tanto para el desarrollo Web Frontend como Backend han secuestrado mi atención. Cuento con un background de emprendedor, administrador de empresas y asesor de negocios, por lo que todo lo que desarrollo trato de verlo con la mentalidad del cliente, entendiendo lo que quiere lograr al encargar un proyecto y como este va a mejorar su modelo de negocio, expandiéndolo y fortaleciéndolo.
 
 <h3 align="left">Follow me:</h3>

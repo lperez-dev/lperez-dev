@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left">Acerca de mi:</h3>
+Desde pequeño me interesó la tecnología. Ya en el colegio estudiaba en mis horas libres html y javascript. Ahora las nuevas tecnologías tanto para el desarrollo Frontend como Backend han captado toda mi atención. Cuento con soft skills de emprendedor, administrador de empresas y asesor de negocios, por lo que todo lo que desarrollo trato de verlo con la mentalidad del cliente, entendiendo lo que quiere lograr al encargar un proyecto y como este va a mejorar su modelo de negocio, expandiéndolo y fortaleciéndolo.
+
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/lcperri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lcperri" height="30" width="40" /></a>
 <a href="https://twitter.com/prluisca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prluisca" height="30" width="40" /></a>

@@ -33,8 +33,7 @@
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' height="240" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436859/github/poke_create_iamrt8.png' height="240" />
   Check the video:
-  [![Everything Is AWESOME](https://img.youtube.com/vi/mGFhdQl8RG4-Y/0.jpg)](  https://youtu.be/mGFhdQl8RG4 "Everything Is AWESOME")
-  
+  ![]([http://damien.pobel.fr/images/youtube-video-github.gif](https://youtu.be/mGFhdQl8RG4))
 <h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luisperez-fullstack/" target="blank">

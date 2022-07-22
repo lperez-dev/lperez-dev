@@ -21,7 +21,7 @@
 <b>- 👨🏻 Customer oriented </b><br/>
 <b>- ⭐️ Focused on results </b><br/>
 <b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I feel comfortable working in a team</b><br/>
-<b>-🌱 Learning about Typescript, Next.js, blockchain and crypto </b><br/>
+<b>-🌱 Learning about Typescript, Next.js, blockchain and crypto<br/>
 <b>- 💻 I like to develop own projects as a hobby and possible ventures</b><br/>
   
 <h3 align="left">📌 Projects:</h3>  
@@ -29,8 +29,8 @@
 <h6>A full stack app that consumes the pokeapi. Shows a list of pokemon cards, allowing you to see the details of each one. Plus you can create your own pokemom!</h6>
 
   <h5>Demo: https://pi-pokemons-two.vercel.app/</h5>
-  <div><h5>Used technology:</h5>
-  <h6> React || Node.js || Postgree || Express || Sequelize || Javascript || Redux || Styled Components || Github </h6></div>
+  <h5>Used technology:</h5>
+  <h6> React || Node.js || Postgree || Express || Sequelize || Javascript || Redux || Styled Components || Github </h6>
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658437246/github/poke_home_lhrhqa.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' height="220" />

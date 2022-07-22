@@ -9,7 +9,7 @@
   <samp>
     With a background as an<br/>
     <em>enterprising</em> and <em>business advisor</em>,<br/>
-    I like to understand the business model of the projects <br/>
+    i like to understand the business model of the projects <br/>
     to <em>generate value  propositions</em>.
   </samp>
   <br/>

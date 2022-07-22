@@ -17,7 +17,7 @@
 
 <h3 align="left">About me:</h3>
 
-<b>- I ❤️ program in React!</b><br/>
+<b>- I ❤️ programming in React!</b><br/>
 <b>- 👨🏻 Customer oriented </b><br/>
 <b>- ⭐️ Focused on results </b><br/>
 <b>- 💻 I develop own projects as a hobby and possible ventures.</b><br/>

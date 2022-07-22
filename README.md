@@ -20,9 +20,9 @@
 <b>- I ❤️ programming in React!</b><br/>
 <b>- 👨🏻 Customer oriented </b><br/>
 <b>- ⭐️ Focused on results </b><br/>
-<b>- 💻 I develop own projects as a hobby and possible ventures.</b><br/>
 <b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I feel comfortable working in a team</b><br/>
-<b>-🌱 Learning about Typescript, Next.js, blockchain and crypto.
+<b>-🌱 Learning about Typescript, Next.js, blockchain and crypto
+<b>- 💻 I develop own projects as a hobby and possible ventures</b><br/>
   
 <h3 align="left">📌 Projects:</h3>  
 <h4>Pokemon Valley</h4>

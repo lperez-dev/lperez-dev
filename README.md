@@ -7,13 +7,11 @@
 
   <p align="center" >
   <samp>
-  <br/>
     With a background as an<br/>
     <em>enterprising</em> and <em>business advisor</em>,<br/>
     I like to understand the business model of the projects <br/>
     to <em>generate value  propositions</em>.
   </samp>
-  <br/>
   <br/>
 </p>
 
@@ -28,14 +26,24 @@
   
 <h3 align="left">📌 Projects:</h3>  
 <h4>Pokemon Valley</h4>
+<h6>A full stack app that consumes the pokeapi. Shows a list of pokemon cards, allowing you to see the details of each one. Plus you can create your own pokemom!</h6>
+
   <h5>Demo: https://pi-pokemons-two.vercel.app/</h5>
+  <div><h5>Used technology:</h5>
+  <h6> React || Node.js || Postgree || Express || Sequelize || Javascript || Redux || Styled Components || Github </h6></div>
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658435544/github/poke_portada_m8asf8.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658437246/github/poke_home_lhrhqa.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436850/github/poke_details_elz58z.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658436859/github/poke_create_iamrt8.png' height="220" />
   
-<h4>Mikasa Nueva Inmobiliaria (vende o alquila tu propiedad en tiempo record!</h4>
+<h4>Mikasa Nueva Inmobiliaria - Vende o alquila tu propiedad en tiempo record!</h4>
+
+<h6> A full stack app that allows you to publish real estate ads for the sale or rental of houses. The publications come with detailed information about the property. Interested parties and the owners of the publication can contact each other and schedule visits through the app to close an agreement. To post you need to log in and purchase a premium or vip subscription.</h6>
+
 <h5>Youtube: https://youtu.be/br3nZH1cGiI /</h5>
+
+<div><h5>Used technology:</h5>
+  <h6> React || Node.js || Mongo || Express || Javascript || Redux || Styled Components || Google authentication || Google apis Github </h6></div>
     <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_portada_nhpxne.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439471/github/mikasa_home_em8w4q.png' height="220" />
   <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1658439470/github/mikasa_details_guqax9.png' height="220" />
@@ -60,5 +68,6 @@
   
  <h3 align="left">How to reach me:</h3>
   - 📫 prluisca@gmail.com
+  - 📞 +51 946392266
 <p align="left"> <a href="https://twitter.com/prluisca" target="blank"><img src="https://img.shields.io/twitter/follow/prluisca?logo=twitter&style=for-the-badge" alt="prluisca" /></a> </p>
 

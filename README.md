@@ -25,6 +25,14 @@
 <b>- 💻 I like to develop own projects as a hobby and possible ventures</b><br/>
   
 <h3 align="left">📌 Projects:</h3>  
+<h4>REST API Best practices implementation (Backend)</h4>
+<h6>
+  Best practices for implementing a rest api using the 3 layer architecture. 
+  <a href="https://api-rest-best-practices.herokuapp.com/api/v1/projects"> Demo</a>
+</h6>
+<img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1659384499/Captura_de_pantalla_2022-08-01_150737_ixu1im.png'  height="260" />       
+<img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1659655004/folders_tree_lfi61m.png' height="260" />
+
 <h4>Pokemon Valley</h4>
 <h6>A full stack app that consumes the pokeapi. Shows a list of pokemon cards, allowing you to see the details of each one. Plus you can create your own pokemom!</h6>
 
